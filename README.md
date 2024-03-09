@@ -12,8 +12,8 @@ Real time tracking of the Route 1 bus in the Boston MTA.  This app uses the Goog
 - Customized map pins including scale, svg glyph, and color stylings.
 
 ## How to Run
--Create your own Google Cloud API_Key.
--Replace YOUR_API_Key with your own key in index.html, and delete the script reference tag in the following:
+- Create your own Google Cloud API_Key.
+- Replace YOUR_API_Key with your own key in index.html, and delete the script reference tag in the following:
 
 ``` html
   <script src="./G_APIKEY.js"></script><!--Delete this reference-->
