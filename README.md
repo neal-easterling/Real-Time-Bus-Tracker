@@ -1,7 +1,11 @@
 # Real-Time-Bus-Tracker
 
+![Real Time Bus Tracker Video Cover](https://neal-easterling.github.io/img/covers/RealTimeBusTrackerThumbnail.png)
+
 ## Description
 Real time tracking of the Route 1 bus in the Boston MTA.  This app uses the Google Maps API and real time API call to Boston MTA.
+
+[Demo Video](https://youtu.be/3PHQG5rIOuk?si=P4XqOoNUk4bF8BCn)
 
 ### Improvements
 - Improved CSS
