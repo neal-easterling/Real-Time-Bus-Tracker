@@ -1,4 +1,4 @@
-# Real-Time-Bus-Tracker
+# Real Time Bus Tracker
 
 ![Real Time Bus Tracker Video Cover](https://neal-easterling.github.io/img/covers/RealTimeBusTrackerThumbnail.png)
 
